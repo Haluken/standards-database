@@ -1,0 +1,4 @@
+New sheet that summarizes what has changed in the last week - update to X ISO standard, draft coming up for a different ISO standard, etc
+	- This should be able to be added easily to the WSA
+
+Relevant regulation column
