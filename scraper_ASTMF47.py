@@ -25,8 +25,8 @@ username = driver.find_element(By.CSS_SELECTOR, 'input[id="userName"')
 password = driver.find_element(By.ID, "password")
 login = driver.find_element(By.CSS_SELECTOR, 'button[onclick="passEnc()"')
 
-username.send_keys("james.davis02@faa.gov")
-password.send_keys("Starlord69")
+username.send_keys("****USERNAME HERE****")
+password.send_keys("****PASSWORD HERE****")
 login.click()
 
 ###Navigate to standards list page
