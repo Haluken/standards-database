@@ -169,8 +169,8 @@ remember = driver.find_element(By.CSS_SELECTOR, "label[for='__ac_remember_1'")
 login = driver.find_element(By.CSS_SELECTOR, "input[name='submit'")
 
 ###Logs in using tara halt's login
-username.send_keys("Tara.R-CTR.Halt")
-password.send_keys("ISOstandards2021")
+username.send_keys("***USERNAME HERE***")
+password.send_keys("***PASSWORD HERE***")
 remember.click()
 login.click()
 
